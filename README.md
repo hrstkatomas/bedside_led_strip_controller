@@ -1,1 +1,1 @@
-"# bedside_led_strip_controller" 
+# bedside_led_strip_controller
